@@ -1,21 +1,33 @@
-MIT License
+Copyright (c) 2025 Elisabeth Pola (DevLizOps)
 
-Copyright (c) 2025 Elisabeth
+Todos los derechos reservados.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Este repositorio ha sido creado como parte de un proceso personal de aprendizaje y documentación técnica en el contexto del reto "90 Días de DevOps", inspirado en el proyecto original de Rossana Suárez ("90 Días de DevOps con Roxs", https://github.com/roxsross/90daysdevopsbyroxs).
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Se permite:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+- Leer y consultar libremente el contenido con fines educativos o personales.
+- Usar ideas, enfoques o estructuras como referencia para proyectos propios (sin copia literal).
+- Enlazar públicamente este repositorio como fuente de inspiración.
+
+No se permite sin autorización expresa por escrito:
+
+- Reproducir, copiar, modificar o redistribuir este contenido, total o parcialmente.
+- Publicar este contenido en blogs, medios sociales, artículos, cursos u otros canales de difusión.
+- Utilizar herramientas de inteligencia artificial para reescribir, traducir o generar obras derivadas basadas en este contenido con fines de publicación pública o comercial.
+
+Este trabajo está protegido por derechos de autor. Todos los derechos están reservados a la autora.
+
+---
+
+Reconocimiento:
+
+Este proyecto está inspirado en el reto "90 Días de DevOps con Roxs" (https://github.com/roxsross/90daysdevopsbyroxs), creado por Rossana Suárez, publicado bajo licencia MIT.
+
+Este trabajo es una documentación personal e independiente basada en la experiencia propia de la autora.
+
+---
+
+Contacto para consultas o solicitudes de licencia:
+
+- GitHub: https://github.com/DevLizOps  
